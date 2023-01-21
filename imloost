@@ -1,0 +1,13 @@
+#! /bin/bash
+echo "Hey, looks like you are little lost. let's get back on track"
+echo "you are currently inside of this folder"
+pwd
+echo "The contents of the current folder are"
+ls
+echo "here are some helpful tips that might help you when you're lost"
+echo "If you ever want to go to your home directory, type "cd" and hit enter"
+echo  "If you ever want to see the contents of a folder, type "ls"  and hit enter"
+echo "If you ever want to see the folder you are currently in, type "pwd" and hit enter"
+echo "If you ever want to go up one folder into the parent, type "cd .." and hit enter"
+
+
